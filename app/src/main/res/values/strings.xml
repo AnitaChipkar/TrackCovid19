@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="activity_hospitals">Hospitals</string>
+    <string name="covid19_tracker">Covid19 Tracker</string>
+    <string name="covid19">COVID19</string>
+    <string name="stay_home">Stay Home,Stay Safe</string>
+    <string name="india_fight">India Fights Corona</string>
+    <string name="covid19_cases">Covid19 cases overview</string>
+    <string name="updated_time">Updated</string>
+    <string name="country">Across India</string>
+    <string name="state">Maharashtra</string>
+    <string name="city">Pune</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="deceased">Deceased</string>
+    <string name="tested_cases">Tested cases in India</string>
+    <string name="reported">Reported</string>
+    <string name="positive">Positive</string>
+    <string name="tested">Tested</string>
+    <string name="test_centers">Covid19 Test Centers in Maharashtra</string>
+    <string name="mumbai">1.Kasturba Hospital for Infectious Diseases, Mumbai.</string>
+    <string name="nagpur">2.Indira Gandhi Government Medical College, Nagpur.</string>
+    <string name="hospital_list">Covid19 Hospitals</string>
+    <string name="hospital_city">Covid19 Hospitals in Pune</string>
+    <string name="year">2020</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="address">Address</string>
+    <string name="no_internet">No Internet Connection.</string>
+</resources>
